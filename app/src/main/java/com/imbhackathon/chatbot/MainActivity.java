@@ -120,7 +120,7 @@ public class MainActivity extends AppCompatActivity {
 
             Log.d("sent string was",message);
 
-            final String workS = "12a3f2a3-ae54-4203-a68e-dd36836a819a";
+            final String workS = "e7100c4d-05f5-4a10-83f6-4f410584ba88";
 
             MessageResponse response = service
                     .message(workS, newMessage)
